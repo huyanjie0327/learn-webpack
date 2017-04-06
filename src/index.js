@@ -1,2 +1,2 @@
-var $ = require('jquery');
+import $ from 'jquery';
 $('body').html('Hello');
